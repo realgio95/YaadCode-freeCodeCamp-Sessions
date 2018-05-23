@@ -1,0 +1,18 @@
+//Giovanni HoSang YaadCode FreeCodeCamp Sessions
+//https://www.freecodecamp.org/challenges/where-do-i-belong
+
+function getIndexToIns(arr, num) {
+  // Find my place in this sorted array.
+  var index;
+  arr = arr.sort();
+  var track = 0;
+  for (var i = 0; i < arr.length; i++){
+    if (arr[i]<num){
+      track++;
+    }
+  }
+  
+  return track;
+}
+
+getIndexToIns([40, 60], 50);

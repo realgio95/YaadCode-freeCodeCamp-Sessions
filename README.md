@@ -9,7 +9,7 @@
 
 #### The live stream of the sessions can be found on the group or youtube after each session. 
 
-+ Youtube Channel: [YAAD CODE](https://www.youtube.com/channel/UC8IpQcTt0RW_oNwvBA7P83g)
++ Youtube Channel: [YAADCODE](https://www.youtube.com/channel/UC8IpQcTt0RW_oNwvBA7P83g)
 
 
 + Facebook Group: [https://www.facebook.com/groups/free.code.camp.kingston.jamaica]
